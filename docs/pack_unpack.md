@@ -1,0 +1,1 @@
+- [Luaのちょっと分かりにくいけど便利かもしれない機能 - yappyの日記](https://yappy-t.hatenadiary.org/entry/20100325/1269536711)
